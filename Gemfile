@@ -22,6 +22,9 @@ gem 'high_voltage', '~> 2.4.0'
 # Use Materialize as Material Design of the Project
 gem 'materialize-sass'
 
+#Use Devise to create an admin page
+gem 'devise', '~> 4.2'
+
 # Use Font-Awesome 
 gem 'font-awesome-sass', '~> 4.5.0'
 

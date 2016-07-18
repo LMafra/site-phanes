@@ -15,3 +15,6 @@
 //= require turbolinks
 //= require_tree .
 //= require materialize-sprockets 
+//= require init
+//= require modernizr
+//= require materialize
